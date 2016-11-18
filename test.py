@@ -1,32 +1,6 @@
 import reports
 import unittest
-
-
-def get_date_ordered():
-    return ['Diablo III',
-            'Terraria',
-            'StarCraft II: Wings of Liberty',
-            'Minecraft',
-            'The Sims 3',
-            'Crysis',
-            "Garry's Mod",
-            'Guild Wars',
-            'Counter-Strike: Condition Zero',
-            'Doom 3',
-            'Half-Life 2',
-            'The Sims 2',
-            'Warhammer 40,000: Dawn of War (including expansions)',
-            'World of Warcraft',
-            'Warcraft III: Reign of Chaos',
-            'Diablo II',
-            'The Sims',
-            'Counter-Strike',
-            'EverQuest',
-            'Half-Life',
-            'StarCraft',
-            'Age of Empires',
-            'Command & Conquer',
-            'Populous']
+import sys
 
 
 def get_grouped_dic():
