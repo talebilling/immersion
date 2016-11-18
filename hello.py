@@ -2,8 +2,8 @@
 # input 2 lines: first and second name
 
 
-def print_hello(first_name, second_name):
-    print("Hello {0} {1}! You just delved into python.".format(first_name, second_name))
+def print_hello(first, second):
+    print("Hello {0} {1}! You just delved into python.".format(first, second))
 
 
 def get_input():
